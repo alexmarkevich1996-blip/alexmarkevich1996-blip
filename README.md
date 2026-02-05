@@ -26,6 +26,17 @@
 - **Git / GitHub**
 - Health IT: **HL7 FHIR**, **HL7v2**, **FHIR mapping**
 
+## Skills
+
+![C#](https://img.shields.io/badge/C%23-100000?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-F1502F?logo=git)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR-017FC3?logo=hl7)
+![HL7](https://img.shields.io/badge/HL7-0072C6?logo=hl7)
+
 ---
 
 ## Contact
