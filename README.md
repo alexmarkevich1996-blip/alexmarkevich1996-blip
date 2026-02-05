@@ -11,7 +11,7 @@
 ## About me
 
 - Building and shipping products in **Health IT / MedTech**
-- Interested in **interoperability** (HL7 FHIR, HL7v2), EHR/EMR ecosystems, analytics & dashboards
+- Interested in interoperability (HL7 FHIR, HL7v2), EHR/EMR ecosystems, analytics & dashboards
 - Currently sharpening my fundamentals in **C#/.NET** and improving engineering habits
 
 ## What I’m focusing on now
@@ -24,14 +24,10 @@
 
 - **C# / .NET**
 - **Git / GitHub**
-- Health IT: **HL7 FHIR**, integration mindset (HL7v2 → FHIR mapping, workflows)
+- Health IT: **HL7 FHIR**, **HL7v2**, **FHIR mapping**
 
-## Featured repositories
 
-- 📌 *Git Flow Practice / C# Exercises* — (pin your best repos here once you push them)
-- 📌 *MedTech notes / interoperability experiments* — (optional)
-
-## Stats (optional)
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
