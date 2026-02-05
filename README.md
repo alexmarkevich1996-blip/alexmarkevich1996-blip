@@ -26,12 +26,6 @@
 - **Git / GitHub**
 - Health IT: **HL7 FHIR**, **HL7v2**, **FHIR mapping**
 
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
 ---
 
 ## Contact
